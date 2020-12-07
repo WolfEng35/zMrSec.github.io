@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/marioraciti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zmrsec.github.io
+  * I am marioraciti (https://keybase.io/marioraciti) on keybase.
+  * I have a public key ASDuJvc74g4gPktCnKSQ863mKMuvr4mYyF1sSecFruxphwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209add1aae8f110df20a5a79e3fe505d4d0539b332d1034cb21770b865349e79b30a",
+      "host": "keybase.io",
+      "kid": "0120ee26f73be20e203e4b429ca490f3ade628cbafaf8998c85d6c49e705aeec69870a",
+      "uid": "7a3c8230a32231ae418f1ca81c24e419",
+      "username": "marioraciti"
+    },
+    "merkle_root": {
+      "ctime": 1607350376,
+      "hash": "adf0b2853026eb0145ff57d5fc577df58f00f39714a1b1090e3fdb0cc75b186b2f37cfaf75c8fee0b2916e4e9be39f0b9f194c006bd8503112d71c287d170783",
+      "hash_meta": "28a2e1f060c3068e55b813c49ebc4680d569eb4e40a90b4fd8a41d40c704830b",
+      "seqno": 18337332
+    },
+    "service": {
+      "entropy": "U2qIcEyNZAoanQ2WetSjF24F",
+      "hostname": "zmrsec.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1607350408,
+  "expire_in": 504576000,
+  "prev": "405b38955803bc7614e277220c68d24df10e148e95bd3ac126f69c44a44978b1",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7ib3O+IOID5LQpykkPOt5ijLr6+JmMhdbEnnBa7saYcKp3BheWxvYWTESpcCJ8QgQFs4lVgDvHYU4nciDGjSTfEOFI6VvTrBJvacRKRJeLHEIKPMyjN6SThSnZh6y1wChDAIkapgDhFC4r80OHKlvbSFAgHCo3NpZ8RAPDyfdYISTThdRKQIHbvWercllHJpMj9/T+jcvEk5koABwOYHeQQuXeKFarNQXON/YBjgKhGEVdoWuK5zyZw8B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB+vlar+J3kqUZuwKk15M6oM5GZZSsc8A3DeRPni/YRco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marioraciti
+
+==================================================================

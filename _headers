@@ -1,0 +1,6 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://d33wubrfki0l68.cloudfront.net; img-src 'self' https://*; style-src 'self' https://*.fontawesome.com https://d33wubrfki0l68.cloudfront.net; font-src 'self' https://*.fontawesome.com
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Permissions-Policy: geolocation 'none'; notifications 'none'; microphone 'none'; camera 'none'; payment 'none'
